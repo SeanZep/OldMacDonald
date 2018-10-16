@@ -1,7 +1,6 @@
 
 void setup()
 {
-	//your variable declarations and
-	//System.out.println() statements here
+	public Farm one = new Farm();
 }
 
